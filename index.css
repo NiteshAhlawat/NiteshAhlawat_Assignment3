@@ -1,0 +1,20 @@
+
+p {
+  line-height: 2;
+}
+
+
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.center_img {
+	
+  display: block;
+  margin : 10px auto;
+  width: 52%;
+  
+}
